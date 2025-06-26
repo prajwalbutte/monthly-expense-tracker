@@ -78,9 +78,9 @@ Prajwal Butte
 2nd Year Computer Engineering Student, Trinity COER, Pune  
 Passionate about learning Python and building simple but useful projects.
 
-[GitHub]: https://github.com/prajwalbutte 
+GitHub: https://github.com/prajwalbutte 
 
-[LinkedIn]:https://linkedin.com/in/prajwal-butte-441485330
+LinkedIn:https://linkedin.com/in/prajwal-butte-441485330
 
 ---
 
